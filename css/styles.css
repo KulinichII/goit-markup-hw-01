@@ -1,0 +1,145 @@
+body {
+    font-family: 'Roboto', sans-serif;
+font-style: normal;
+color: #2E2F42;
+
+}
+
+/* header */
+
+.header-a{
+    font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 1.33em;
+display: flex;
+align-items: center;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #2E2F42;
+}
+.header-ul{
+    font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.33em;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.header-ul-a{
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.33;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+/* 1 */
+
+.h1{
+    font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 1.33;
+text-align: center;
+letter-spacing: 0.02em;
+color: #FFFFFF;
+}
+
+.btn{
+    font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+color: #FFFFFF;
+}
+
+/* 2 */
+
+.section-2-h3{
+    font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.33;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.section-2-p{
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.33;
+letter-spacing: 0.02em;
+color: #434455;
+
+}
+/* 3 */
+
+.section-3-h2{
+    font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 1.33;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2E2F42;
+}
+
+/* 4 */
+
+.section-4-h2{
+    font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 1.33;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2E2F42;
+}
+
+.section-4-h3{
+    font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.33;
+text-align: center;
+letter-spacing: 0.02em;
+color: #2E2F42;
+
+}
+.section-4-p{
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.33;
+text-align: center;
+letter-spacing: 0.02em;
+color: #434455;
+}
+/* footer  */
+
+.footer-a{
+    font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 1.33;
+display: flex;
+align-items: center;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #F4F4FD;
+}
+.footer-p{
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.33;
+letter-spacing: 0.02em;
+color: #E7E9FC;
+}
